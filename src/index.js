@@ -10,7 +10,7 @@ import {
 
 import HomePage from './components/homePage';
 import SecondPage from './components/secondPage';
-import MainLayout from './components/mainLayout';
+// import MainLayout from './components/mainLayout';
 
 // render(<HomePage />, document.getElementById('root'));
 
